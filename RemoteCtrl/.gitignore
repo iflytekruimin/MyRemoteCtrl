@@ -1,2 +1,6 @@
 # .vs
 .vs/
+Debug/
+/RemoteClient/Debug/
+/RemoteCtrl/RemoteCtrl/
+
